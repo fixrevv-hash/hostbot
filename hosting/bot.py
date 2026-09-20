@@ -564,11 +564,11 @@ try:
 except (TypeError, ValueError):
     KEEPALIVE_PORT = 10000
 
-BRAND       = "ѕιмяαη нoѕтιηg ＲΒOT"
+BRAND       = "Rev Host"
 BRAND_VER   = "v2.1"
 BRAND_TAG   = f"{BRAND} {BRAND_VER}"
-SUPPORT_USR = "@nur7871"
-UPDATE_CH   = "https://t.me/+MXtA9ufCgok3Yjc1"
+SUPPORT_USR = "@azurethena"
+UPDATE_CH   = "https://t.me/ddosrevv"
 FOOTER      = f"\n\n<blockquote>{BRAND_TAG}</blockquote>"
 
 # ─── glyphs (smart contextual symbols + emojis for the UI) ──────
