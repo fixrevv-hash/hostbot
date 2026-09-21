@@ -1,0 +1,3 @@
+# Adds Node.js (node + npm) next to Python so hosted JavaScript bots can run.
+[phases.setup]
+nixPkgs = ["...", "nodejs_20"]
